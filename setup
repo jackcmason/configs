@@ -1,1 +1,2 @@
 mv .gitconfig ~/.gitconfig
+mv qpdfview.conf ~/.config/qpdfview/qpdfview.conf
